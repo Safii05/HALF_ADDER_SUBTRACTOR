@@ -68,7 +68,8 @@ endmodule
 ![exp3](https://github.com/user-attachments/assets/b4510d6b-d6e2-4f10-ba6b-b2365d0cfd1c)
 
 **Output/TIMING Waveform**
-![Uploading Screenshot 2024-11-05 104442.png…]()
+![Screenshot 2024-11-05 104442](https://github.com/user-attachments/assets/fad6c8a3-569c-4f8a-8f63-785bc333237b)
 
 
 **Result:**
+Truth tables for half adder and half substractor are verified successfully
